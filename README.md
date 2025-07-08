@@ -54,10 +54,6 @@ The goal was to practice and apply **Exploratory Data Analysis (EDA)** technique
 3. Use pip:  
 pip install matplotlib pandas
 
-yaml
-Copy
-Edit
-
 ---
 
 ## 💻 Usage  
